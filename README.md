@@ -1,6 +1,6 @@
 # Discord DM Support Bot Infomration
 
-This allows you to have members in your community get support in the most simplest and fastest way possible. All you need to do is add the questions your members will most likely ask and then add the proper respones for the questions. If you want to add more questions and repsonses all you have to do is add more of them in the *.json* files then add another line in the *index.js* file. In order for this to work you have to do the following;
+This allows you to have members in your community get support in the most simplest and fastest way possible. All you need to do is add the questions your members will most likely ask and then add the proper response for the questions. If you want to add more questions and repsonses all you have to do is add more of them in the *.json* files then add another line in the *index.js* file. In order for this to work you have to do the following;
 
 **Fill out the *config.json* file**
 
